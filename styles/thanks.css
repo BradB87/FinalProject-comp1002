@@ -1,0 +1,42 @@
+@import url(../thanks.html);
+html{
+    background-image: url(../images/dawid-zawila--G3rw6Y02D0-unsplash.jpg);
+}
+
+h1{
+    color: gold;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    border-style: groove;
+    border-color: yellow;
+    margin:auto ;
+    width:max-content; 
+     padding:2px 20px;
+     
+     
+    
+}
+ul{
+    justify-content: space-around;
+    
+    
+}
+a{
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    background-color: yellow;
+    height: 2em;
+    font-size: 1em;
+    margin:auto ;
+    width:max-content; 
+     padding:2px 20px;
+     color:black;
+     
+    
+}
+p{
+    text-align: center;
+    color: antiquewhite;
+}

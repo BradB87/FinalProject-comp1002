@@ -1,0 +1,73 @@
+@import url(../contact.html);
+html{
+    background-image: url(../images/eduardo-soares-3QEyfOHuyLI-unsplash.jpg)
+}
+h1{
+    color: #cc8e35;
+    background-color: #192a56;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: #0984e3;
+    border-style:double;
+    font-size: 1.5em;
+    margin:auto ;
+    padding: 3px 20px;
+    display: flex;
+    text-align: center;
+    font-weight: 900;
+}
+form{
+    background-color: #192a56;
+    color: #cc8e35;
+    font-size: large;
+    padding: 40px 40px;
+    
+}
+ul{
+    justify-content: space-around;
+    display: flex;
+    color: #cc8e35;
+    background-color: black;
+    margin:auto ;
+    padding: 3px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+    
+
+div{
+    padding: 1em;
+} 
+.head1{
+    color:#cc8e35;
+    background-color: #192a56;
+    text-decoration: solid underline;
+    margin:auto ;
+    width:max-content; 
+     padding:2px 20px;
+    
+}
+
+
+.list1{
+    display: flex;
+    justify-content: inline;
+    color: blue;
+    background-color: black;
+    margin:auto ;
+    width:max-content; 
+     padding:2px 20px;
+    
+}
+.copy{
+    display: flex;
+color: blue;
+    justify-content: space-around font-family'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40em;
+    font-weight: 900;
+}
+input{
+    color: #cc8e35;
+    background-color: black;
+}
+
+
